@@ -1,0 +1,6 @@
+{
+  "client.css": "../css/main.css",
+  "client.css.map": "../css/main.css.map",
+  "client.js": "bundle.js",
+  "client.js.map": "bundle.js.map"
+}
